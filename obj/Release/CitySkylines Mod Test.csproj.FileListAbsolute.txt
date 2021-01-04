@@ -1,0 +1,14 @@
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\CitySkylines Mod Test\bin\Release\ICities.dll
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\CitySkylines Mod Test\bin\Release\UnityEngine.dll
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\CitySkylines Mod Test\bin\Release\UnityEngine.xml
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\CitySkylines Mod Test\obj\Release\CitySkylines Mod Test.csprojResolveAssemblyReference.cache
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\CitySkylines Mod Test\bin\Release\UnlockAllAreas.dll
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\CitySkylines Mod Test\bin\Release\UnlockAllAreas.pdb
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\CitySkylines Mod Test\obj\Release\UnlockAllAreas.dll
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\CitySkylines Mod Test\obj\Release\UnlockAllAreas.pdb
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\CitySkylines Mods\CitySkylines Mod Test\obj\Release\CitySkylines Mod Test.csprojResolveAssemblyReference.cache
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\CitySkylines Mods\CitySkylines Mod Test\obj\Release\UnlockAllAreas.dll
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\CitySkylines Mods\CitySkylines Mod Test\obj\Release\UnlockAllAreas.pdb
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\CitySkylines Mods\CitySkylines Mod Test\bin\Release\UnlockAllAreas.dll
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\CitySkylines Mods\CitySkylines Mod Test\bin\Release\UnlockAllAreas.pdb
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\CitySkylines Mods\CitySkylines Mod Test\bin\Release\UnityEngine.xml

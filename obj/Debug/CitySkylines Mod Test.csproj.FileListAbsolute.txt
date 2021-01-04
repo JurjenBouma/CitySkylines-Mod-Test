@@ -1,0 +1,7 @@
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\CitySkylines Mod Test\obj\Debug\CitySkylines Mod Test.csprojResolveAssemblyReference.cache
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\CitySkylines Mod Test\bin\Debug\CitySkylines Mod Test.dll
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\CitySkylines Mod Test\bin\Debug\CitySkylines Mod Test.pdb
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\CitySkylines Mod Test\bin\Debug\ICities.dll
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\CitySkylines Mod Test\bin\Debug\UnityEngine.dll
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\CitySkylines Mod Test\obj\Debug\CitySkylines Mod Test.dll
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\CitySkylines Mod Test\obj\Debug\CitySkylines Mod Test.pdb
